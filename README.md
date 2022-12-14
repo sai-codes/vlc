@@ -1,2 +1,2 @@
-# vlc
-visible light communication
+### VLC (Visible Light Communication)
+---
