@@ -1,3 +1,3 @@
 ### VLC (Visible Light Communication)
 ---
-![Image]("vlc2.png")
+![Image](vlc2.png)
